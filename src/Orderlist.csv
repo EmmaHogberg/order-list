@@ -11,7 +11,7 @@ OrderDate,Region,Rep1,Rep2,Item,Units,UnitCost,Total
 6/8/2019,East,Jones,Vivan,Binder,60,09.39,539.4
 6/25/2019,Central,Morgan,Ernest,Pencil,90,05.39,449.1
 7/12/2019,East,Howard,Flo,Binder,29,02.39,58.11.00
-7/29/2019,East,Parent,Lilli,Binder,81,20.39,"1,619.19"
+7/29/2019,East,Parent,Lilli,Binder,81,20.39,619.19
 8/15/2019,East,Jones,Kristyn,Pencil,35,05.39,175.05.00
 9/1/2019,Central,Smith,Tashina,Desk,2,125,250
 9/18/2019,East,Jones,Maryann,Pen Set,16,16.39,256.24.00
@@ -20,9 +20,9 @@ OrderDate,Region,Rep1,Rep2,Item,Units,UnitCost,Total
 11/8/2019,East,Parent,Arlie,Pen,15,20.39,300.25.00
 11/25/2019,Central,Kivell,Jade,Pen Set,96,05.39,479.04.00
 12/12/2019,Central,Smith,Jenifer,Pencil,67,01.29,86.43.00
-12/29/2019,East,Parent,Meghan,Pen Set,74,16.39,"1,183.26"
+12/29/2019,East,Parent,Meghan,Pen Set,74,16.39,1183.26
 1/15/2020,Central,Gill,Margert,Binder,46,09.39,413.54.00
-2/1/2020,Central,Smith,Danuta,Binder,87,15,"1,305.00"
+2/1/2020,Central,Smith,Danuta,Binder,87,15,305.00
 2/18/2020,East,Jones,Lilliam,Binder,4,05.39,20.36
 3/7/2020,West,Sorvino,Judi,Binder,7,20.39,140.33.00
 3/24/2020,Central,Jardine,Kimiko,Pen Set,50,05.39,249.5
@@ -33,12 +33,18 @@ OrderDate,Region,Rep1,Rep2,Item,Units,UnitCost,Total
 6/17/2020,Central,Kivell,Maxwell,Desk,5,125,625
 7/4/2020,East,Jones,Joaquin,Pen Set,62,05.39,309.38.00
 7/21/2020,Central,Morgan,Britni,Pen Set,55,12.49,687.35.00
-8/7/2020,Central,Kivell,Katheleen,Pen Set,42,24.35.00,"1,005.90"
+8/7/2020,Central,Kivell,Katheleen,Pen Set,42,24.35.00,1005.90
 8/24/2020,West,Sorvino,Franklin,Desk,3,275,825
 9/10/2020,Central,Gill,Norine,Pencil,7,01.29,09.03
 9/27/2020,West,Sorvino,Mario,Pen,76,02.39,151.24.00
-10/14/2020,West,Thompson,Morgan,Binder,57,20.39,"1,139.43"
+10/14/2020,West,Thompson,Morgan,Binder,57,20.39,1139.43
 10/31/2020,Central,Andrews,Kivell,Pencil,14,01.29,18.06
 11/17/2020,Central,Jardine,Brianna,Binder,11,05.39,55.29.00
-12/4/2020,Central,Jardine,Margert,Binder,94,20.39,"1,879.06"
-12/21/2020,Central,Andrews,Danuta,Binder,28,05.39,
+12/4/2020,Central,Jardine,Margert,Binder,94,20.39,1879.06
+12/21/2020,Central,Andrews,Danuta,Binder,28,05.39,281
+9/172021,Sweden,Emma,Dante,Coffe,100,2.5,250
+9/17/2021,Malmö,Alrik,Daniel,Pen,78,473829,3728998
+6/17/2021,Arlöv,Robin,Igana,Soda,12,36,3728
+5/19/2021,Lund,Emma,Fredrik,Suger,3,78,382
+3/09/2019,West,Karin,Anna,Salt,2,8,16
+3/09/2019,West,Hanna,Klas,Honny,2,50,100

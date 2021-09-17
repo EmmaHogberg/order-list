@@ -6,17 +6,17 @@ import java.util.Date;
 public class OrderBean {
 
     private final Integer orderId;
-    private final Date orderDate;
+    private final String orderDate;
     private final String region;
     private final String rep1;
     private final String rep2;
     private final String item;
-    private final BigDecimal units;
-    private final BigDecimal unitCost;
-    private final BigDecimal total;
+    private final String units;
+    private final String unitCost;
+    private final String total;
 
 
-    public OrderBean(Integer orderId, Date orderDate, String region, String rep1, String rep2, String item, BigDecimal units, BigDecimal unitCost, BigDecimal total) {
+    public OrderBean(Integer orderId, String orderDate, String region, String rep1, String rep2, String item, String units, String unitCost, String total) {
         this.orderId = orderId;
         this.orderDate = orderDate;
         this.region = region;
@@ -33,7 +33,7 @@ public class OrderBean {
         return orderId;
     }
 
-    public Date getOrderDate() {
+    public String getOrderDate() {
         return orderDate;
     }
 
@@ -53,15 +53,15 @@ public class OrderBean {
         return item;
     }
 
-    public BigDecimal getUnits() {
+    public String getUnits() {
         return units;
     }
 
-    public BigDecimal getUnitCost() {
+    public String getUnitCost() {
         return unitCost;
     }
 
-    public BigDecimal getTotal() {
+    public String getTotal() {
         return total;
     }
 }
